@@ -19,7 +19,7 @@ https://scratch.mit.edu/projects/1163341291
 
 ## How to Play
 1. Open the project on Scratch: The Chase Game [https://scratch.mit.edu/projects/1163341291].
-2. Use the **arrow keys** to move your cat characte
+2. Use the **arrow keys** to move your cat character
 3. Collect the milk to increase your score
 4. Avoid being caught by the human character
 5. The game continues indefinitely - see how high you can score!
