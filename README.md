@@ -1,4 +1,5 @@
-# The Chase Game: Cat and Human Adventure
+# The Chase Game: Cat and Human Adventure (Scratch)
+
 A fun Scratch game where you control a cat trying to drink milk while avoiding a chasing human! This project was originally submitted as a middle school computer science assignment and showcases basic game mechanics in Scratch.
 
 https://scratch.mit.edu/projects/1163341291
@@ -30,20 +31,10 @@ https://scratch.mit.edu/projects/1163341291
 3. **Milk Sprite**: Collectible item that increases score
 4. **Stage**: Game background as the human room
 
-## Technical Details
-**The game implements**:
-1. Event Handling: Responds to key presses and clicks
-2. Collision Detection: Checks when cat touches milk or human
-3. Random Positioning: Places milk at random locations
-
 ## Project History
-This was originally submitted as a school project during the first grade of middle school (second semester) for computer science class.
+This project was originally submitted for my Computer Science class during the second semester of 1st grade at Alemam Alshabi Middle School.
 
 ## License
-This project is licensed under the MIT License.
+This project is open source and available for personal and educational use. Feel free to modify and distribute the code as needed for your projects.
 
 Created by: Bandar Abdulrab (Ban_Gamer) 
-
-Built with Scratch
-
-Original Submission Date: Middle school, 1st grade, 2nd semester
